@@ -2,6 +2,8 @@
 ## Pie Bakery Performance Analysis
 
 # Bakery Analytics Dashboard Project
+![image](https://github.com/user-attachments/assets/1878a4a9-4925-4070-a635-51b5b9b0295d)
+
 
 ## Overview
 This project focuses on analyzing and visualizing revenue trends in the bakery industry using Power BI. The dashboard provides comprehensive insights into sales patterns, order types, pie preferences, and revenue metrics to optimize business operations.
